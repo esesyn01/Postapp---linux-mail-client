@@ -1,0 +1,18 @@
+Pomoc programu Postapp
+Dostępne opcje wywołania:
+   -v, wyświetla wersję programu
+   -h, wyświetla okno pomocy programu
+Funkcje wywoływane w programie:
+   1) Dodawanie adresu odbiorcy - użytkownik podaje adres e-mail, na który zostanie wysłana wiadomość. Adresy będą sprawdzane pod kątem poprawności. Możliwe jest dodanie kilka adresów po kolei.
+   2) Dodawanie adresata z książki adresów - dodanie adresu e-mail zapisanego w książce adresowej.
+   3) Wpisywanie tematu wiadomości.
+   4) Wybieranie pliku z wiadomością - w oknie programu użytkownik wybiera plik .txt z wiadomośćią.
+   5) Wpisywanie wiadomośći - użytkownik wpisuje własną wiadomość.
+   6) Dodawanie załączników - w oknie programu użytkownik wybiera załącznik do  wysłania. Możliwe jest wysłanie wielu załączników.
+   7) Wysyłanie wiadomości - aby wiadomość została wysłana musi ona zawierać adres e-mail odbiorcy, temat oraz treść.
+   8) Wyświetlanie skrzynki odbiorczej - użytkownik wybiera z listy wiadomość do otworzenia.
+   9) Dodawanie kontaktu do książki adresowej - Kontakt składa się z nazwy oraz adresu e-mail. Wpisany adres e-mail jest walidowany.
+   10) Usunięcie użytkownika z książki adresowej - wybrany użytkownik jest usuwany.
+   11) Usuń wszystkich adresatów.
+   12) Usuń wszystkie załączniki.
+   13) Wyjście z programu.
